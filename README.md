@@ -33,7 +33,6 @@ Built with **LangChain**, **ChromaDB**, and **state-of-the-art embedding models*
 - 🧩 Smart Chunking: Context-aware document segmentation with overlap
 - 🎯 Precision Retrieval: Hybrid search combining semantic + keyword matching
 - 🔗 Source Attribution: Citations with exact document references
-- ⚡ Performance Optimized: Async processing and caching layers
 - 📈 Scalable Design: Modular architecture for easy component replacement
 
 ---
