@@ -129,8 +129,7 @@ def dbstoragemanager(chunked_page_content):
     ##vecdb = Chroma.from_documents(
     ##documents = chunked_page_content,
     ##embedding = embedding_model,
-    ##persist_directory = r'C:\Users\91620\Desktop\rag_system\60e52b36-b764-495e-93fc-6d8ebb6e4b6f'   ### This Will Create A Persistent Local Disk File Which Will Store The EMbeddings In The PC And Work Locally Within The PC
-    ##)
+    
     ##return vecdb
     vecdb = vectordatabasemanager()
     vecdb.add_documents(chunked_page_content)
@@ -140,7 +139,7 @@ def pdfvecdbmanager(chunked_pdf_content):
     ##vecdb = Chroma.from_documents(
         ##documents=chunked_pdf_content,
         ##embedding=embedding_model,
-        ##persist_directory=r'C:\Users\91620\Desktop\rag_system\60e52b36-b764-495e-93fc-6d8ebb6e4b6f'
+        
         ### This Will Create A Persistent Local Disk File Which Will Store The EMbeddings In The PC And Work Locally Within The PC
     ##)
     ##return vecdb
