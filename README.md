@@ -6,7 +6,7 @@ Built with **LangChain**, **ChromaDB**, and **state-of-the-art embedding models*
 
 ---
 
-##🎯 Core Technology Stack
+## 🎯 Core Technology Stack
 
 - 🤖 AI Framework: Built with LangChain for RAG pipeline orchestration
 - 💾 Vector Database: Uses ChromaDB for efficient vector storage and retrieval
@@ -17,7 +17,7 @@ Built with **LangChain**, **ChromaDB**, and **state-of-the-art embedding models*
 
 ---
 
-##🚀 System Architecture
+## 🚀 System Architecture
 
 - 📊 Data Pipeline: Document ingestion → chunking → embedding → vector storage
 - 🔗 RAG Pipeline: Query embedding → similarity search → context augmentation → LLM generation
@@ -27,7 +27,7 @@ Built with **LangChain**, **ChromaDB**, and **state-of-the-art embedding models*
 
 ---
 
-##✨ Key Features
+## ✨ Key Features
 
 - 📄 Multi-format Support: Handles PDFs, and web URLs
 - 🧩 Smart Chunking: Context-aware document segmentation with overlap
