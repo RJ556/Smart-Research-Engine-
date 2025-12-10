@@ -8,12 +8,12 @@ Built with **LangChain**, **ChromaDB**, and **state-of-the-art embedding models*
 
 ##🎯 Core Technology Stack
 
--🤖 AI Framework: Built with LangChain for RAG pipeline orchestration
--💾 Vector Database: Uses ChromaDB for efficient vector storage and retrieval
--🧬 Embeddings: Implements sentence-transformers for semantic embedding generation
--🧠 LLM Integration: Powered by Llama/Mistral models via HuggingFace
--🔍 Search Algorithm: Cosine similarity for precise document retrieval
--🐍 Backend: Python-based with asynchronous processing
+- 🤖 AI Framework: Built with LangChain for RAG pipeline orchestration
+- 💾 Vector Database: Uses ChromaDB for efficient vector storage and retrieval
+- 🧬 Embeddings: Implements sentence-transformers for semantic embedding generation
+- 🧠 LLM Integration: Powered by Llama/Mistral models via HuggingFace
+- 🔍 Search Algorithm: Cosine similarity for precise document retrieval
+- 🐍 Backend: Python-based with asynchronous processing
 
 ---
 
