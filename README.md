@@ -70,9 +70,9 @@ Built with **LangChain**, **ChromaDB**, and **state-of-the-art embedding models*
 ---
 
 ## 👤 Developer
-**Name:** Ranveer Raj
-**Work:** Undergraduate At National Institute Of Technology, Raipur
-**LinkedIn:** https://www.linkedin.com/in/ranveerrajnitrr  
+- **Name:** Ranveer Raj
+- **Work:** Undergraduate At National Institute Of Technology, Raipur
+- **LinkedIn:** https://www.linkedin.com/in/ranveerrajnitrr  
 
 ---
 
