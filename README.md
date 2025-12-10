@@ -19,22 +19,22 @@ Built with **LangChain**, **ChromaDB**, and **state-of-the-art embedding models*
 
 ##🚀 System Architecture
 
--📊 Data Pipeline: Document ingestion → chunking → embedding → vector storage
--🔗 RAG Pipeline: Query embedding → similarity search → context augmentation → LLM generation
--🌐 Web Interface: Streamlit-based interactive UI with real-time responses
--🐳 Containerization: Fully Dockerized for consistent deployment
--☁️ Deployment: Hosted on Hugging Face Spaces for easy access
+- 📊 Data Pipeline: Document ingestion → chunking → embedding → vector storage
+- 🔗 RAG Pipeline: Query embedding → similarity search → context augmentation → LLM generation
+- 🌐 Web Interface: Streamlit-based interactive UI with real-time responses
+- 🐳 Containerization: Fully Dockerized for consistent deployment
+- ☁️ Deployment: Hosted on Hugging Face Spaces for easy access
 
 ---
 
 ##✨ Key Features
 
--📄 Multi-format Support: Handles PDFs, and web URLs
--🧩 Smart Chunking: Context-aware document segmentation with overlap
--🎯 Precision Retrieval: Hybrid search combining semantic + keyword matching
--🔗 Source Attribution: Citations with exact document references
--⚡ Performance Optimized: Async processing and caching layers
--📈 Scalable Design: Modular architecture for easy component replacement
+- 📄 Multi-format Support: Handles PDFs, and web URLs
+- 🧩 Smart Chunking: Context-aware document segmentation with overlap
+- 🎯 Precision Retrieval: Hybrid search combining semantic + keyword matching
+- 🔗 Source Attribution: Citations with exact document references
+- ⚡ Performance Optimized: Async processing and caching layers
+- 📈 Scalable Design: Modular architecture for easy component replacement
 
 ---
 
@@ -49,8 +49,8 @@ Built with **LangChain**, **ChromaDB**, and **state-of-the-art embedding models*
 
 ### 🔮 1. Multi-Model Support
 - Switch dynamically between Llama, Mistral, Gemma, GPT
-- 
 ### 🧠 2. Advanced RAG Agents
+
 - Multi-step autonomous agent reasoning  
 - Deep research mode for long reports
 - Memory Inclusion For More Interactive Research 
