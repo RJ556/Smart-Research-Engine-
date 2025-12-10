@@ -1,3 +1,72 @@
+🎯 Core Technology Stack
+
+🤖 AI Framework: Built with LangChain for RAG pipeline orchestration
+💾 Vector Database: Uses ChromaDB for efficient vector storage and retrieval
+🧬 Embeddings: Implements sentence-transformers for semantic embedding generation
+🧠 LLM Integration: Powered by Llama/Mistral models via HuggingFace
+🔍 Search Algorithm: Cosine similarity for precise document retrieval
+🐍 Backend: Python-based with asynchronous processing
+
+🚀 System Architecture
+
+📊 Data Pipeline: Document ingestion → chunking → embedding → vector storage
+🔗 RAG Pipeline: Query embedding → similarity search → context augmentation → LLM generation
+🌐 Web Interface: Streamlit-based interactive UI with real-time responses
+🐳 Containerization: Fully Dockerized for consistent deployment
+☁️ Deployment: Hosted on Hugging Face Spaces for easy access
+
+✨ Key Features
+
+📄 Multi-format Support: Handles PDFs, DOCX, TXT, and web URLs
+🧩 Smart Chunking: Context-aware document segmentation with overlap
+🎯 Precision Retrieval: Hybrid search combining semantic + keyword matching
+💬 Conversational Memory: Maintains context across multiple queries
+🔗 Source Attribution: Citations with exact document references
+⚡ Performance Optimized: Async processing and caching layers
+📈 Scalable Design: Modular architecture for easy component replacement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Use These Codes For Reference IF Building This Type Of Similar Projects
 1. Use Your Own API KEY
 2. Decide The Folder Path Where You Guys Want To Store The Vectors As A Persistent Chromadb Vector Database
