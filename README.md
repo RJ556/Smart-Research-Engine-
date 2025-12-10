@@ -11,9 +11,9 @@ Built with **LangChain**, **ChromaDB**, and **state-of-the-art embedding models*
 - 🤖 AI Framework: Built with LangChain for RAG pipeline orchestration
 - 💾 Vector Database: Uses ChromaDB for efficient vector storage and retrieval
 - 🧬 Embeddings: Implements sentence-transformers for semantic embedding generation
-- 🧠 LLM Integration: Powered by Llama/Mistral models via HuggingFace
+- 🧠 LLM Integration: Powered by Llama model via groqcloud platform
 - 🔍 Search Algorithm: Cosine similarity for precise document retrieval
-- 🐍 Backend: Python-based with asynchronous processing
+- 🐍 Backend: Python-based 
 
 ---
 
@@ -29,10 +29,9 @@ Built with **LangChain**, **ChromaDB**, and **state-of-the-art embedding models*
 
 ##✨ Key Features
 
--📄 Multi-format Support: Handles PDFs, DOCX, TXT, and web URLs
+-📄 Multi-format Support: Handles PDFs, and web URLs
 -🧩 Smart Chunking: Context-aware document segmentation with overlap
 -🎯 Precision Retrieval: Hybrid search combining semantic + keyword matching
--💬 Conversational Memory: Maintains context across multiple queries
 -🔗 Source Attribution: Citations with exact document references
 -⚡ Performance Optimized: Async processing and caching layers
 -📈 Scalable Design: Modular architecture for easy component replacement
@@ -46,6 +45,27 @@ Built with **LangChain**, **ChromaDB**, and **state-of-the-art embedding models*
 
 ---
 
+## ✨ Future Upgradations (Planned Enhancements)
+
+### 🔮 1. Multi-Model Support
+- Switch dynamically between Llama, Mistral, Gemma, GPT
+- 
+### 🧠 2. Advanced RAG Agents
+- Multi-step autonomous agent reasoning  
+- Deep research mode for long reports
+- Memory Inclusion For More Interactive Research 
+
+### 🌐 3. Multi-Language Support
+- Hindi, Bengali, Tamil, Telugu  
+- Spanish, French, German  
+
+### 💾 4. Distributed Vector DB
+- Qdrant / Weaviate / FAISS adapters  
+- Cloud vector storage support  
+
+### 🖼️ 5. Image & Diagram Processing
+- Extract PDF images  
+- Vision summarization     
 
 ---
 
@@ -57,6 +77,7 @@ Built with **LangChain**, **ChromaDB**, and **state-of-the-art embedding models*
 ---
 
 
+⭐ If you find this project helpful, please star the repository!
 
 
 
@@ -97,8 +118,4 @@ Built with **LangChain**, **ChromaDB**, and **state-of-the-art embedding models*
 
 
 
-Use These Codes For Reference IF Building This Type Of Similar Projects
-1. Use Your Own API KEY
-2. Decide The Folder Path Where You Guys Want To Store The Vectors As A Persistent Chromadb Vector Database
-3. Requirements Are Given So Use Them
-Read The Comments For Getting The Conceptual Clarity Of The Code Lines That Are Used 
+
