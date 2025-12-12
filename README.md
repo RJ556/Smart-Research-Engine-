@@ -28,7 +28,8 @@ Built with **LangChain**, **ChromaDB**, and **state-of-the-art embedding models*
 ---
 
 ## ✨ Key Features
-
+- 🌐 Multi-Language Support
+- 🗣️  Voice Prompting Support
 - 📄 Multi-format Support: Handles PDFs, and web URLs
 - 🧩 Smart Chunking: Context-aware document segmentation with overlap
 - 🎯 Precision Retrieval: Hybrid search combining semantic + keyword matching
@@ -54,15 +55,11 @@ Built with **LangChain**, **ChromaDB**, and **state-of-the-art embedding models*
 - Deep research mode for long reports
 - Memory Inclusion For More Interactive Research 
 
-### 🌐 3. Multi-Language Support
-- Hindi, Bengali, Tamil, Telugu  
-- Spanish, French, German  
-
-### 💾 4. Distributed Vector DB
+### 💾 3. Distributed Vector DB
 - Qdrant / Weaviate / FAISS adapters  
 - Cloud vector storage support  
 
-### 🖼️ 5. Image & Diagram Processing
+### 🖼️ 4. Image & Diagram Processing
 - Extract PDF images  
 - Vision summarization     
 
